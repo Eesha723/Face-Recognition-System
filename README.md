@@ -1,3 +1,6 @@
+# Face Recognition System
+
+A project designed to perform face recognition using Gabor models and OpenCV.
 ## User Instruction Manual
 
 1. Unzip the project folder and open it in Spyder or PyCharm. Ensure that the OpenCV library is installed.
